@@ -1,0 +1,6 @@
+[submodule "specs/ois"]
+	path = specs/ois
+	url = https://github.com/shanhe-nsccjn/ois-api-specs.git
+[submodule "test/features"]
+	path = test/features
+	url = https://github.com/yunify/ois-sdk-test-scenarios.git
